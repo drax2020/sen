@@ -1,0 +1,11 @@
+{
+   "Mail": {
+      "auth": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE2NTI5NzY0OTMsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJ1c2VybmFtZSI6InJvdGluYWJveEBzY3B1bHNlLmNvbSIsImlkIjoiNjI4NjZiNmQ4MWU2MDViOThkMDNlYWI1IiwibWVyY3VyZSI6eyJzdWJzY3JpYmUiOlsiL2FjY291bnRzLzYyODY2YjZkODFlNjA1Yjk4ZDAzZWFiNSJdfX0.8BnjVGxbGJLc6cx4GXjZSeEklZHJiEdEbWlfGW67kpttX3mfwTY1rrjWBwqojH2tspvZ9QPUkAxL8LgzJgNXzw",
+      "email": "x7root@arxxwalls.com",
+      "password": "&e2ifgF&xS9!+6z"
+   },
+   "Sender": {
+      "timeout": 5,
+      "test": "virusma2000@yopmail.com,virusma2000@gmail.com,virusma2000@yahoo.com,virusma2000@outlook.com,virusma2000@icloud.com"
+   }
+}
